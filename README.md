@@ -1,2 +1,2 @@
-# javaaiagent
-Java AI Agents 
+# myfirstaiagent
+My first java based AI Agent
